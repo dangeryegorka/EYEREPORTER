@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Встреча Глово",
+      "status": "todo",
+      "author_id": 558725443,
+      "author_name": "Егорка",
+      "deadline": "12.03.2026 14:30",
+      "reminders_sent": [],
+      "created_at": "11.03.2026 19:33",
+      "updated_at": "11.03.2026 19:33"
+    },
+    {
+      "id": 5,
+      "text": "123",
+      "status": "todo",
+      "priority": "medium",
+      "author_id": 558725443,
+      "author_name": "Егорка",
+      "assignee": "Tujh",
+      "deadline": "12.03.2026 23:59",
+      "comments": [],
+      "reminders_sent": [],
+      "created_at": "11.03.2026 21:23",
+      "updated_at": "11.03.2026 21:23"
+    },
+    {
+      "id": 7,
+      "text": "Єгор, підготувати завтра ДУ по 8 березню, перед цим погодити фін кошторис. \nДо кінця дня- дедлайн",
+      "status": "inprogress",
+      "priority": "medium",
+      "author_id": 469179332,
+      "author_name": "Настя Бабенко",
+      "assignee": null,
+      "deadline": null,
+      "comments": [],
+      "reminders_sent": [],
+      "created_at": "11.03.2026 21:35",
+      "updated_at": "11.03.2026 21:36"
+    },
+    {
+      "id": 8,
+      "text": "Фолуап внутрішній по зустрічі оф лайн з Софією",
+      "status": "todo",
+      "priority": "high",
+      "author_id": 469179332,
+      "author_name": "Настя Бабенко",
+      "assignee": "@dangeryegorka",
+      "deadline": "12.03.2026 16:00",
+      "comments": [],
+      "reminders_sent": [],
+      "created_at": "11.03.2026 21:36",
+      "updated_at": "11.03.2026 21:36"
+    }
+  ],
+  "next_id": 10
+}
